@@ -1,0 +1,604 @@
+{
+  "reflexiones_masivas": [
+    {
+      "id": "ref_001",
+      "categoria": "Estoicismo",
+      "texto": "No son las cosas mismas las que nos perturban,\nsino las opiniones que tenemos sobre ellas.",
+      "autor": "Epicteto"
+    },
+    {
+      "id": "ref_002",
+      "categoria": "Disciplina",
+      "texto": "La disciplina es el puente entre metas y logros.",
+      "autor": "Jim Rohn"
+    },
+    {
+      "id": "ref_003",
+      "categoria": "Negocios",
+      "texto": "El riesgo más grande es no tomar ninguno.\nEn un mundo que cambia rápido, la única estrategia que falla es no arriesgarse.",
+      "autor": "Mark Zuckerberg"
+    },
+    {
+      "id": "ref_004",
+      "categoria": "Mentalidad",
+      "texto": "Tu mente es un jardín.\nTus pensamientos son las semillas.\nPuedes cultivar flores o maleza.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_005",
+      "categoria": "Relaciones",
+      "texto": "La calidad de tu vida depende directamente de la calidad de tus relaciones.",
+      "autor": "Tony Robbins"
+    },
+    {
+      "id": "ref_006",
+      "categoria": "Proverbios",
+      "texto": "El mejor momento para plantar un árbol fue hace 20 años.\nEl segundo mejor momento es ahora.",
+      "autor": "Proverbio chino"
+    },
+    {
+      "id": "ref_007",
+      "categoria": "Estrategia",
+      "texto": "En medio del caos, también hay oportunidad.",
+      "autor": "Sun Tzu"
+    },
+    {
+      "id": "ref_008",
+      "categoria": "Estoicismo",
+      "texto": "No esperes que los eventos ocurran como deseas.\nAcéptalos como ocurren, y todo irá bien.",
+      "autor": "Epicteto"
+    },
+    {
+      "id": "ref_009",
+      "categoria": "Disciplina",
+      "texto": "La diferencia entre lo que eres y lo que quieres ser\nestá en lo que haces cada día.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_010",
+      "categoria": "Negocios",
+      "texto": "No interrumpas a tu enemigo cuando está cometiendo un error.",
+      "autor": "Napoleón Bonaparte"
+    },
+    {
+      "id": "ref_011",
+      "categoria": "Mentalidad",
+      "texto": "No puedes detener las olas, pero puedes aprender a surfear.",
+      "autor": "Jon Kabat-Zinn"
+    },
+    {
+      "id": "ref_012",
+      "categoria": "Relaciones",
+      "texto": "La gente olvidará lo que dijiste, olvidará lo que hiciste,\npero nunca olvidará cómo la hiciste sentir.",
+      "autor": "Maya Angelou"
+    },
+    {
+      "id": "ref_013",
+      "categoria": "Proverbios",
+      "texto": "El sabio no se sienta para lamentarse,\nsino que se levanta y actúa.",
+      "autor": "Proverbio árabe"
+    },
+    {
+      "id": "ref_014",
+      "categoria": "Estrategia",
+      "texto": "La victoria se obtiene en la preparación,\nno en el campo de batalla.",
+      "autor": "Sun Tzu"
+    },
+    {
+      "id": "ref_015",
+      "categoria": "Estoicismo",
+      "texto": "Si quieres mejorar, conténtate con parecer incompetente y necio en cosas externas.",
+      "autor": "Epicteto"
+    },
+    {
+      "id": "ref_016",
+      "categoria": "Disciplina",
+      "texto": "No bajamos al nivel de nuestras metas, sino al nivel de nuestros hábitos.",
+      "autor": "James Clear"
+    },
+    {
+      "id": "ref_017",
+      "categoria": "Negocios",
+      "texto": "El precio de algo no se mide en dinero, sino en el esfuerzo que hay que invertir para obtenerlo.",
+      "autor": "Jeff Bezos"
+    },
+    {
+      "id": "ref_018",
+      "categoria": "Mentalidad",
+      "texto": "La felicidad no es tener lo que quieres, sino querer lo que tienes.",
+      "autor": "Séneca"
+    },
+    {
+      "id": "ref_019",
+      "categoria": "Relaciones",
+      "texto": "Escucha con la intención de entender,\nno con la intención de responder.",
+      "autor": "Stephen Covey"
+    },
+    {
+      "id": "ref_020",
+      "categoria": "Proverbios",
+      "texto": "Si te apresuras, tropezarás incluso en terreno llano.",
+      "autor": "Proverbio japonés"
+    },
+    {
+      "id": "ref_021",
+      "categoria": "Estrategia",
+      "texto": "La mejor estrategia es la que se adapta al enemigo,\nno la que impone nuestras debilidades.",
+      "autor": "Miyamoto Musashi"
+    },
+    {
+      "id": "ref_022",
+      "categoria": "Estoicismo",
+      "texto": "El arte de vivir se parece más a la lucha que a la danza,\nporque hay que estar preparado para lo inesperado.",
+      "autor": "Marco Aurelio"
+    },
+    {
+      "id": "ref_023",
+      "categoria": "Disciplina",
+      "texto": "El dolor es temporal, pero el abandono dura para siempre.",
+      "autor": "Lance Armstrong"
+    },
+    {
+      "id": "ref_024",
+      "categoria": "Negocios",
+      "texto": "No temas renunciar a lo bueno para perseguir lo grandioso.",
+      "autor": "John D. Rockefeller"
+    },
+    {
+      "id": "ref_025",
+      "categoria": "Mentalidad",
+      "texto": "No puedes controlar el viento, pero puedes ajustar las velas.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_026",
+      "categoria": "Relaciones",
+      "texto": "El mayor regalo que puedes dar a alguien es tu tiempo,\nporque es algo que no recuperarás.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_027",
+      "categoria": "Proverbios",
+      "texto": "El que pregunta es tonto por cinco minutos,\nel que no pregunta es tonto para siempre.",
+      "autor": "Proverbio chino"
+    },
+    {
+      "id": "ref_028",
+      "categoria": "Estrategia",
+      "texto": "Si conoces al enemigo y te conoces a ti mismo,\nno temas el resultado de cien batallas.",
+      "autor": "Sun Tzu"
+    },
+    {
+      "id": "ref_029",
+      "categoria": "Estoicismo",
+      "texto": "No te preocupes por lo que otros piensen de ti.\nEllos están demasiado ocupados preocupándose por lo que tú piensas de ellos.",
+      "autor": "Epicteto (adaptado)"
+    },
+    {
+      "id": "ref_030",
+      "categoria": "Disciplina",
+      "texto": "El 1% de mejora diaria durante un año\nte hace 37 veces mejor.",
+      "autor": "James Clear"
+    },
+    {
+      "id": "ref_031",
+      "categoria": "Negocios",
+      "texto": "La oportunidad es como un amanecer:\nsi esperas demasiado, te la pierdes.",
+      "autor": "William Arthur Ward"
+    },
+    {
+      "id": "ref_032",
+      "categoria": "Mentalidad",
+      "texto": "No eres tus pensamientos, eres la conciencia que los observa.",
+      "autor": "Eckhart Tolle"
+    },
+    {
+      "id": "ref_033",
+      "categoria": "Relaciones",
+      "texto": "Las personas tóxicas te desafían, te estresan,\nte hacen cuestionar tu valor.\nAléjate, aunque duela.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_034",
+      "categoria": "Proverbios",
+      "texto": "Incluso un viaje de mil millas comienza con un solo paso.",
+      "autor": "Lao Tzu"
+    },
+    {
+      "id": "ref_035",
+      "categoria": "Estrategia",
+      "texto": "A veces hay que moverse en silencio\npara que el ruido no opaque la visión.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_036",
+      "categoria": "Estoicismo",
+      "texto": "La felicidad de tu vida depende de la calidad de tus pensamientos.",
+      "autor": "Marco Aurelio"
+    },
+    {
+      "id": "ref_037",
+      "categoria": "Disciplina",
+      "texto": "La constancia no es correr todos los días,\nsino levantarse cada vez que te caes.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_038",
+      "categoria": "Negocios",
+      "texto": "El éxito no es la clave de la felicidad.\nLa felicidad es la clave del éxito.\nSi amas lo que haces, tendrás éxito.",
+      "autor": "Albert Schweitzer"
+    },
+    {
+      "id": "ref_039",
+      "categoria": "Mentalidad",
+      "texto": "La mente es como un paracaídas: solo funciona si se abre.",
+      "autor": "Albert Einstein"
+    },
+    {
+      "id": "ref_040",
+      "categoria": "Relaciones",
+      "texto": "No juzgues a alguien por cómo te trata,\nsino por cómo trata a quienes no pueden hacer nada por él.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_041",
+      "categoria": "Proverbios",
+      "texto": "La cabra no da a luz a un león.",
+      "autor": "Proverbio árabe (sobre la herencia)"
+    },
+    {
+      "id": "ref_042",
+      "categoria": "Estrategia",
+      "texto": "La mejor victoria es la que se obtiene sin luchar.",
+      "autor": "Sun Tzu"
+    },
+    {
+      "id": "ref_043",
+      "categoria": "Estoicismo",
+      "texto": "No puedes evitar las olas, pero puedes aprender a navegar.",
+      "autor": "Anónimo (estoico)"
+    },
+    {
+      "id": "ref_044",
+      "categoria": "Disciplina",
+      "texto": "No es lo que hacemos de vez en cuando lo que da forma a nuestra vida,\nsino lo que hacemos consistentemente.",
+      "autor": "Tony Robbins"
+    },
+    {
+      "id": "ref_045",
+      "categoria": "Negocios",
+      "texto": "En los negocios, lo que no se mide no se puede mejorar.",
+      "autor": "Peter Drucker"
+    },
+    {
+      "id": "ref_046",
+      "categoria": "Mentalidad",
+      "texto": "Si crees que puedes, ya estás a medio camino.",
+      "autor": "Theodore Roosevelt"
+    },
+    {
+      "id": "ref_047",
+      "categoria": "Relaciones",
+      "texto": "La confianza se construye con gotas y se pierde en baldes.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_048",
+      "categoria": "Proverbios",
+      "texto": "No hay viento favorable para el que no sabe a dónde va.",
+      "autor": "Séneca"
+    },
+    {
+      "id": "ref_049",
+      "categoria": "Estrategia",
+      "texto": "La paciencia es una estrategia, no una debilidad.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_050",
+      "categoria": "Estoicismo",
+      "texto": "La muerte nos sonríe a todos; lo único que podemos hacer es sonreírle de vuelta.",
+      "autor": "Marco Aurelio"
+    },
+    {
+      "id": "ref_051",
+      "categoria": "Disciplina",
+      "texto": "No busques resultados rápidos; busca resultados duraderos.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_052",
+      "categoria": "Negocios",
+      "texto": "El cliente más importante es el que tienes hoy, no el que tendrás mañana.",
+      "autor": "Sam Walton"
+    },
+    {
+      "id": "ref_053",
+      "categoria": "Mentalidad",
+      "texto": "El miedo es el asesino de los sueños.\nNo dejes que te paralice.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_054",
+      "categoria": "Relaciones",
+      "texto": "Amar no es mirarse el uno al otro,\nes mirar juntos en la misma dirección.",
+      "autor": "Antoine de Saint-Exupéry"
+    },
+    {
+      "id": "ref_055",
+      "categoria": "Proverbios",
+      "texto": "El agua blanda, en movimiento, perfora la roca dura.",
+      "autor": "Proverbio chino"
+    },
+    {
+      "id": "ref_056",
+      "categoria": "Estrategia",
+      "texto": "Si quieres algo que nunca tuviste,\ndebes hacer algo que nunca hiciste.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_057",
+      "categoria": "Estoicismo",
+      "texto": "El que sufre antes de lo necesario, sufre más de lo necesario.",
+      "autor": "Séneca"
+    },
+    {
+      "id": "ref_058",
+      "categoria": "Disciplina",
+      "texto": "El hábito es lo que te sostiene cuando la motivación se va.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_059",
+      "categoria": "Negocios",
+      "texto": "No vendas un producto, vende una solución a un problema.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_060",
+      "categoria": "Mentalidad",
+      "texto": "La gratitud transforma lo que tenemos en suficiente.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_061",
+      "categoria": "Relaciones",
+      "texto": "No hay camino para la felicidad; la felicidad es el camino.",
+      "autor": "Buda"
+    },
+    {
+      "id": "ref_062",
+      "categoria": "Proverbios",
+      "texto": "El silencio es el grito más fuerte.",
+      "autor": "Proverbio japonés"
+    },
+    {
+      "id": "ref_063",
+      "categoria": "Estrategia",
+      "texto": "A veces hay que perder una batalla para ganar la guerra.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_064",
+      "categoria": "Estoicismo",
+      "texto": "No es que tengamos poco tiempo, sino que perdemos mucho.",
+      "autor": "Séneca"
+    },
+    {
+      "id": "ref_065",
+      "categoria": "Disciplina",
+      "texto": "No te compares con los demás, compárate con quien eras ayer.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_066",
+      "categoria": "Negocios",
+      "texto": "Si no estás avergonzado de tu primer producto, lo lanzaste demasiado tarde.",
+      "autor": "Reid Hoffman"
+    },
+    {
+      "id": "ref_067",
+      "categoria": "Mentalidad",
+      "texto": "La vida no se trata de encontrarse a uno mismo,\nsino de crearse a uno mismo.",
+      "autor": "George Bernard Shaw"
+    },
+    {
+      "id": "ref_068",
+      "categoria": "Relaciones",
+      "texto": "Las palabras pueden curar o destruir.\nElige sabiamente.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_069",
+      "categoria": "Proverbios",
+      "texto": "Cuando el sabio señala la luna, el necio mira el dedo.",
+      "autor": "Proverbio chino"
+    },
+    {
+      "id": "ref_070",
+      "categoria": "Estrategia",
+      "texto": "El que todo lo quiere, todo lo pierde.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_071",
+      "categoria": "Estoicismo",
+      "texto": "El infierno son los demás... cuando no te controlas a ti mismo.",
+      "autor": "Adaptado de Sartre"
+    },
+    {
+      "id": "ref_072",
+      "categoria": "Disciplina",
+      "texto": "La acción expresa prioridades.",
+      "autor": "Mahatma Gandhi"
+    },
+    {
+      "id": "ref_073",
+      "categoria": "Negocios",
+      "texto": "En la era digital, la reputación es tu activo más valioso.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_074",
+      "categoria": "Mentalidad",
+      "texto": "No puedes cambiar el viento, pero puedes ajustar las velas.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_075",
+      "categoria": "Relaciones",
+      "texto": "La empatía es la capacidad de ponerse en los zapatos del otro y sentir sus ampollas.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_076",
+      "categoria": "Proverbios",
+      "texto": "El que teme sufrir, ya sufre el miedo.",
+      "autor": "Proverbio árabe"
+    },
+    {
+      "id": "ref_077",
+      "categoria": "Estrategia",
+      "texto": "No ataques al león si no tienes con qué defenderte.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_078",
+      "categoria": "Estoicismo",
+      "texto": "La verdadera felicidad es disfrutar el presente sin dependencia ansiosa del futuro.",
+      "autor": "Séneca"
+    },
+    {
+      "id": "ref_079",
+      "categoria": "Disciplina",
+      "texto": "No esperes a estar motivado para empezar; empieza y la motivación llegará.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_080",
+      "categoria": "Negocios",
+      "texto": "La innovación distingue al líder del seguidor.",
+      "autor": "Steve Jobs"
+    },
+    {
+      "id": "ref_081",
+      "categoria": "Mentalidad",
+      "texto": "No eres víctima de tus circunstancias, eres producto de tus decisiones.",
+      "autor": "Stephen Covey"
+    },
+    {
+      "id": "ref_082",
+      "categoria": "Relaciones",
+      "texto": "El respeto se gana, el amor se da, la confianza se construye.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_083",
+      "categoria": "Proverbios",
+      "texto": "No escupas al cielo, porque te puede caer en la cara.",
+      "autor": "Proverbio español"
+    },
+    {
+      "id": "ref_084",
+      "categoria": "Estrategia",
+      "texto": "La mejor defensa es un ataque bien calculado.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_085",
+      "categoria": "Estoicismo",
+      "texto": "No te aferres a lo que tienes, aferrate a lo que eres.",
+      "autor": "Epicteto"
+    },
+    {
+      "id": "ref_086",
+      "categoria": "Disciplina",
+      "texto": "El fracaso es el condimento que da sabor al éxito.",
+      "autor": "Truman Capote"
+    },
+    {
+      "id": "ref_087",
+      "categoria": "Negocios",
+      "texto": "No trabajes por dinero; haz que el dinero trabaje para ti.",
+      "autor": "Robert Kiyosaki"
+    },
+    {
+      "id": "ref_088",
+      "categoria": "Mentalidad",
+      "texto": "La mente que se abre a una nueva idea jamás vuelve a su tamaño original.",
+      "autor": "Albert Einstein"
+    },
+    {
+      "id": "ref_089",
+      "categoria": "Relaciones",
+      "texto": "La soledad no es la ausencia de compañía, sino la ausencia de propósito.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_090",
+      "categoria": "Proverbios",
+      "texto": "El que siembra vientos, cosecha tempestades.",
+      "autor": "Proverbio bíblico"
+    },
+    {
+      "id": "ref_091",
+      "categoria": "Estrategia",
+      "texto": "A veces hay que retirarse para avanzar mejor.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_092",
+      "categoria": "Estoicismo",
+      "texto": "No hay viento favorable para el que no sabe a dónde va.",
+      "autor": "Séneca"
+    },
+    {
+      "id": "ref_093",
+      "categoria": "Disciplina",
+      "texto": "La excelencia no es un acto, es un hábito.",
+      "autor": "Aristóteles"
+    },
+    {
+      "id": "ref_094",
+      "categoria": "Negocios",
+      "texto": "El dinero es un excelente sirviente, pero un pésimo amo.",
+      "autor": "P.T. Barnum"
+    },
+    {
+      "id": "ref_095",
+      "categoria": "Mentalidad",
+      "texto": "El optimismo es la fe que conduce al logro.",
+      "autor": "Helen Keller"
+    },
+    {
+      "id": "ref_096",
+      "categoria": "Relaciones",
+      "texto": "El que no valora lo que tiene, termina perdiéndolo.",
+      "autor": "Anónimo"
+    },
+    {
+      "id": "ref_097",
+      "categoria": "Proverbios",
+      "texto": "Más vale un hoy que dos mañanas.",
+      "autor": "Proverbio español"
+    },
+    {
+      "id": "ref_098",
+      "categoria": "Estrategia",
+      "texto": "La fortuna favorece a los audaces.",
+      "autor": "Virgilio"
+    },
+    {
+      "id": "ref_099",
+      "categoria": "Estoicismo",
+      "texto": "El que no puede vivir en sociedad, o es una bestia o un dios.",
+      "autor": "Aristóteles"
+    },
+    {
+      "id": "ref_100",
+      "categoria": "Disciplina",
+      "texto": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "autor": "Robert Collier"
+    }
+  ]
+}
