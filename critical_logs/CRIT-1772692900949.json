@@ -1,0 +1,7 @@
+{
+  "id": "CRIT-1772692900949",
+  "timestamp": "5/3/2026, 12:41:40 a. m.",
+  "context": "Uncaught Exception Global",
+  "error": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed\n    at node:internal/fs/streams:426:23\n    at FSReqCallback.wrapper [as oncomplete] (node:fs:828:5)\n    at FSReqCallback.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "critical": true
+}
