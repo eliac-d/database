@@ -1,0 +1,7 @@
+{
+  "id": "CRIT-1772704557239",
+  "timestamp": "5/3/2026, 3:55:57 a. m.",
+  "context": "Message Upsert",
+  "error": "MongoServerSelectionError: connection <monitor> to 89.192.252.72:27017 timed out\n    at Topology.selectServer (/home/container/node_modules/mongodb/lib/sdam/topology.js:327:38)\n    at async tryOperation (/home/container/node_modules/mongodb/lib/operations/execute_operation.js:196:22)\n    at async executeOperation (/home/container/node_modules/mongodb/lib/operations/execute_operation.js:78:16)\n    at async FindCursor._initialize (/home/container/node_modules/mongodb/lib/cursor/find_cursor.js:62:26)\n    at async FindCursor.cursorInit (/home/container/node_modules/mongodb/lib/cursor/abstract_cursor.js:632:27)\n    at async FindCursor.fetchBatch (/home/container/node_modules/mongodb/lib/cursor/abstract_cursor.js:666:13)\n    at async FindCursor.next (/home/container/node_modules/mongodb/lib/cursor/abstract_cursor.js:342:17)\n    at async Collection.findOne (/home/container/node_modules/mongodb/lib/collection.js:313:24)\n    at async model.Query._findOne (/home/container/node_modules/mongoose/lib/query.js:2710:15)\n    at async model.Query.exec (/home/container/node_modules/mongoose/lib/query.js:4627:63)",
+  "critical": true
+}
