@@ -1,0 +1,7 @@
+{
+  "id": "CRIT-1772913736196",
+  "timestamp": "7/3/2026, 2:02:16 p. m.",
+  "context": "Uncaught Exception Global",
+  "error": "TypeError: text.match is not a function\n    at extractUrlFromText (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:33:50)\n    at generateLinkPreviewIfRequired (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:35:17)\n    at generateWAMessageContent (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:280:29)\n    at generateWAMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:599:52)\n    at Object.sendMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:966:39)\n    at conn.reply (file:///home/container/lib/serializer.js:106:25)\n    at Object.run (file:///home/container/plugins/download/play.js:142:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.message (file:///home/container/lib/message.js?update=1772913711031:163:13)\n    at async EventEmitter.<anonymous> (file:///home/container/index.js:188:51)",
+  "critical": true
+}
