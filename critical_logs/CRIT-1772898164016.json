@@ -1,0 +1,7 @@
+{
+  "id": "CRIT-1772898164016",
+  "timestamp": "7/3/2026, 9:42:44 a. m.",
+  "context": "Message Upsert",
+  "error": "TypeError: Cannot read properties of undefined (reading 'toString')\n    at getStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:256:29)\n    at encryptedStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:310:36)\n    at prepareWAMessageMedia (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:139:102)\n    at generateWAMessageContent (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:483:19)\n    at generateWAMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:599:52)\n    at Object.sendMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:966:39)\n    at events (file:///home/container/lib/event/detect.js:130:20)\n    at async Object.message (file:///home/container/lib/message.js?update=1772834367151:81:9)\n    at async EventEmitter.<anonymous> (file:///home/container/index.js:188:51)",
+  "critical": true
+}
