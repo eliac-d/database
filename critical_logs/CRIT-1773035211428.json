@@ -1,0 +1,7 @@
+{
+  "id": "CRIT-1773035211428",
+  "timestamp": "8/3/2026, 11:46:51 p. m.",
+  "context": "Uncaught Exception Global",
+  "error": "Error: forbidden\n    at assertNodeErrorFree (file:///home/container/node_modules/@whiskeysockets/baileys/lib/WABinary/generic-utils.js:57:15)\n    at query (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:133:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async groupMetadata (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/groups.js:19:24)\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:508:41\n    at async Promise.all (index 0)\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:501:51\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/auth-utils.js:249:40",
+  "critical": true
+}
