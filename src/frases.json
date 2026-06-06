@@ -74,6 +74,431 @@
       "categoria": "Perspectiva",
       "autor": "Arthur Schopenhauer",
       "texto": "El destino baraja las cartas, pero nosotros somos quienes las jugamos."
+    },
+    {
+      "categoria": "Éxito",
+      "autor": "Steve Jobs",
+      "texto": "El único modo de hacer un gran trabajo es amar lo que haces."
+    },
+    {
+      "categoria": "Innovación",
+      "autor": "Albert Einstein",
+      "texto": "La imaginación es más importante que el conocimiento."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Muhammad Ali",
+      "texto": "No cuentes los días, haz que los días cuenten."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Henry Ford",
+      "texto": "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez con más inteligencia."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Mahatma Gandhi",
+      "texto": "Sé el cambio que quieres ver en el mundo."
+    },
+    {
+      "categoria": "Resiliencia",
+      "autor": "Winston Churchill",
+      "texto": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el valor para continuar."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Bruce Lee",
+      "texto": "Vacía tu mente, sé amorfo, moldeable, como el agua."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "Nelson Mandela",
+      "texto": "Siempre parece imposible hasta que se hace."
+    },
+    {
+      "categoria": "Sabiduría",
+      "autor": "Confucio",
+      "texto": "No importa lo lento que vayas, siempre y cuando no te detengas."
+    },
+    {
+      "categoria": "Valentía",
+      "autor": "Mark Twain",
+      "texto": "El coraje es la resistencia al miedo, el dominio del miedo, no la ausencia de miedo."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "Jim Rohn",
+      "texto": "Todos debemos sufrir una de dos cosas: el dolor de la disciplina o el dolor del arrepentimiento."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Viktor Frankl",
+      "texto": "Cuando ya no somos capaces de cambiar una situación, nos encontramos ante el desafío de cambiarnos a nosotros mismos."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Wayne Dyer",
+      "texto": "Si cambias la forma en que miras las cosas, las cosas que miras cambian."
+    },
+    {
+      "categoria": "Éxito",
+      "autor": "Thomas Edison",
+      "texto": "Nuestra mayor debilidad radica en renunciar. La forma más segura de tener éxito es siempre intentarlo una vez más."
+    },
+    {
+      "categoria": "Enfoque",
+      "autor": "Tony Robbins",
+      "texto": "Donde va la atención, fluye la energía."
+    },
+    {
+      "categoria": "Sabiduría",
+      "autor": "Ralph Waldo Emerson",
+      "texto": "La única persona en la que estás destinado a convertirte es la persona que decidas ser."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Vince Lombardi",
+      "texto": "La diferencia entre una persona exitosa y otras no es la falta de fuerza, ni la falta de conocimiento, sino la falta de voluntad."
+    },
+    {
+      "categoria": "Resiliencia",
+      "autor": "Maya Angelou",
+      "texto": "Puedes encontrar muchas derrotas, pero no debes ser derrotado."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Rene Descartes",
+      "texto": "Pienso, luego existo."
+    },
+    {
+      "categoria": "Liderazgo",
+      "autor": "John C. Maxwell",
+      "texto": "Un líder es aquel que conoce el camino, recorre el camino y muestra el camino."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "C.S. Lewis",
+      "texto": "No puedes volver atrás y cambiar el principio, pero puedes comenzar donde estás y cambiar el final."
+    },
+    {
+      "categoria": "Estoicismo",
+      "autor": "Epicteto",
+      "texto": "La riqueza no consiste en tener grandes posesiones, sino en tener pocas necesidades."
+    },
+    {
+      "categoria": "Innovación",
+      "autor": "Walt Disney",
+      "texto": "La forma de empezar es dejar de hablar y empezar a hacer."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "Helen Keller",
+      "texto": "El carácter no puede ser desarrollado en la tranquilidad y la quietud. Solo a través de la experiencia de prueba y sufrimiento se puede fortalecer el alma."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "Jocko Willink",
+      "texto": "La disciplina equivale a libertad."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Anaïs Nin",
+      "texto": "No vemos las cosas como son, las vemos como somos."
+    },
+    {
+      "categoria": "Sabiduría",
+      "autor": "Platón",
+      "texto": "La mayor riqueza es vivir contento con poco."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Napoleón Hill",
+      "texto": "Cualquier cosa que la mente del hombre pueda concebir y creer, puede ser lograda."
+    },
+    {
+      "categoria": "Valentía",
+      "autor": "Franklin D. Roosevelt",
+      "texto": "A lo único que debemos temer es al miedo mismo."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Michael Jordan",
+      "texto": "He fallado más de 9000 tiros en mi carrera. He perdido casi 300 juegos. 26 veces han confiado en mí para tomar el tiro que ganaba el juego y lo he fallado. He fracasado una y otra vez en mi vida y es por eso que tengo éxito."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Albert Einstein",
+      "texto": "Cualquiera que nunca haya cometido un error, nunca ha intentado algo nuevo."
+    },
+    {
+      "categoria": "Estoicismo",
+      "autor": "Marco Aurelio",
+      "texto": "Lo que no es bueno para el enjambre, tampoco es bueno para la abeja."
+    },
+    {
+      "categoria": "Enfoque",
+      "autor": "Bruce Lee",
+      "texto": "El guerrero exitoso es el hombre promedio, con un enfoque similar al de un láser."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "Eleanor Roosevelt",
+      "texto": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+    },
+    {
+      "categoria": "Resiliencia",
+      "autor": "Proverbio Japonés",
+      "texto": "Cae siete veces y levántate ocho."
+    },
+    {
+      "categoria": "Liderazgo",
+      "autor": "Simon Sinek",
+      "texto": "El liderazgo no es una licencia para hacer menos; es una responsabilidad para hacer más."
+    },
+    {
+      "categoria": "Innovación",
+      "autor": "Peter Drucker",
+      "texto": "La mejor manera de predecir el futuro es creándolo."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Eckhart Tolle",
+      "texto": "La causa principal de la infelicidad nunca es la situación, sino tus pensamientos sobre ella."
+    },
+    {
+      "categoria": "Sabiduría",
+      "autor": "Isaac Newton",
+      "texto": "Lo que sabemos es una gota de agua; lo que ignoramos es el océano."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "Robin Sharma",
+      "texto": "Las pequeñas mejoras diarias, con el tiempo, producen resultados asombrosos."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Dalai Lama",
+      "texto": "Recuerda que a veces no conseguir lo que quieres es un maravilloso golpe de suerte."
+    },
+    {
+      "categoria": "Éxito",
+      "autor": "Oprah Winfrey",
+      "texto": "El gran secreto de la vida es que no hay un gran secreto. Sea cual sea tu objetivo, puedes llegar si estás dispuesto a trabajar."
+    },
+    {
+      "categoria": "Valentía",
+      "autor": "John F. Kennedy",
+      "texto": "No oremos por tareas fáciles, oremos por tener más fuerza."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Stephen Covey",
+      "texto": "No soy producto de mis circunstancias. Soy producto de mis decisiones."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Les Brown",
+      "texto": "Apunta a la luna. Si fallas, podrías darle a una estrella."
+    },
+    {
+      "categoria": "Estoicismo",
+      "autor": "Séneca",
+      "texto": "Sufrimos más a menudo en la imaginación que en la realidad."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "J.K. Rowling",
+      "texto": "Es imposible vivir sin fracasar en algo, a menos que vivas con tanta cautela que bien podrías no haber vivido en absoluto."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Norman Vincent Peale",
+      "texto": "Cambia tus pensamientos y cambiarás tu mundo."
+    },
+    {
+      "categoria": "Resiliencia",
+      "autor": "Babe Ruth",
+      "texto": "Es difícil vencer a una persona que nunca se rinde."
+    },
+    {
+      "categoria": "Enfoque",
+      "autor": "Pablo Picasso",
+      "texto": "La inspiración existe, pero tiene que encontrarte trabajando."
+    },
+    {
+      "categoria": "Sabiduría",
+      "autor": "Galileo Galilei",
+      "texto": "No se puede enseñar nada a un hombre; sólo se le puede ayudar a encontrar la respuesta dentro de sí mismo."
+    },
+    {
+      "categoria": "Liderazgo",
+      "autor": "Sheryl Sandberg",
+      "texto": "El liderazgo es hacer que los demás sean mejores como resultado de tu presencia."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Thich Nhat Hanh",
+      "texto": "Sonreír es a menudo la forma más rápida de calmarse y encontrar la paz interior."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "George Washington",
+      "texto": "La disciplina es el alma de un ejército. Hace formidable a un grupo pequeño y procura éxito a los débiles."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Abraham Lincoln",
+      "texto": "Al final, no son los años en tu vida los que cuentan. Es la vida en tus años."
+    },
+    {
+      "categoria": "Éxito",
+      "autor": "Colin Powell",
+      "texto": "No hay secretos para el éxito. Es el resultado de la preparación, el trabajo duro y el aprendizaje del fracaso."
+    },
+    {
+      "categoria": "Innovación",
+      "autor": "Steve Jobs",
+      "texto": "La innovación distingue a los líderes de los seguidores."
+    },
+    {
+      "categoria": "Valentía",
+      "autor": "Amelia Earhart",
+      "texto": "Lo más difícil es la decisión de actuar, el resto es meramente tenacidad."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "Marie Curie",
+      "texto": "Nada en la vida es para ser temido, es sólo para ser comprendido."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Buda",
+      "texto": "La mente lo es todo. Te conviertes en lo que crees."
+    },
+    {
+      "categoria": "Estoicismo",
+      "autor": "Epicteto",
+      "texto": "Solo hay un camino hacia la felicidad y es dejar de preocuparse por las cosas que están más allá del poder de nuestra voluntad."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Harriet Tubman",
+      "texto": "Todo gran sueño comienza con un soñador. Recuerda siempre, tienes en tu interior la fuerza, la paciencia y la pasión."
+    },
+    {
+      "categoria": "Resiliencia",
+      "autor": "Thomas Paine",
+      "texto": "Cuanto más duro el conflicto, más glorioso el triunfo."
+    },
+    {
+      "categoria": "Sabiduría",
+      "autor": "Leonardo da Vinci",
+      "texto": "La simplicidad es la máxima sofisticación."
+    },
+    {
+      "categoria": "Enfoque",
+      "autor": "Alexander Graham Bell",
+      "texto": "Concéntrate en la tarea que tienes entre manos. Los rayos del sol no queman hasta que se enfocan."
+    },
+    {
+      "categoria": "Liderazgo",
+      "autor": "Martin Luther King Jr.",
+      "texto": "Un líder genuino no es un buscador de consensos, sino un moldeador de consensos."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Ralph Waldo Emerson",
+      "texto": "Por cada minuto que estás enfadado, pierdes sesenta segundos de tranquilidad."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Brian Tracy",
+      "texto": "Sal de tu zona de confort. Solo puedes crecer si estás dispuesto a sentirte incómodo y molesto al intentar algo nuevo."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "Epicteto",
+      "texto": "Ningún hombre es libre a menos que sea dueño de sí mismo."
+    },
+    {
+      "categoria": "Éxito",
+      "autor": "Pele",
+      "texto": "El éxito no es un accidente. Es trabajo duro, perseverancia, aprendizaje, estudio, sacrificio y, sobre todo, amor por lo que estás haciendo."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "Kobe Bryant",
+      "texto": "Lo más importante es intentar e inspirar a las personas para que puedan ser grandes en lo que sea que quieran hacer."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "William Shakespeare",
+      "texto": "No hay nada bueno o malo, sino que el pensamiento lo hace así."
+    },
+    {
+      "categoria": "Valentía",
+      "autor": "Mary Anne Radmacher",
+      "texto": "El coraje no siempre ruge. A veces es la vocecita al final del día que dice: lo intentaré de nuevo mañana."
+    },
+    {
+      "categoria": "Estoicismo",
+      "autor": "Marco Aurelio",
+      "texto": "Haz cada cosa en la vida como si fuera la última."
+    },
+    {
+      "categoria": "Resiliencia",
+      "autor": "Hellen Keller",
+      "texto": "Aunque el mundo está lleno de sufrimiento, también está lleno de la superación de este."
+    },
+    {
+      "categoria": "Sabiduría",
+      "autor": "Sun Tzu",
+      "texto": "La mayor victoria es la que no requiere batalla."
+    },
+    {
+      "categoria": "Innovación",
+      "autor": "Thomas Edison",
+      "texto": "No he fracasado. Simplemente he encontrado 10.000 maneras que no funcionan."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Voltaire",
+      "texto": "Decidí ser feliz porque es bueno para la salud."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Rosa Parks",
+      "texto": "He aprendido a lo largo de los años que cuando la mente está decidida, esto disminuye el miedo."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Albert Camus",
+      "texto": "La verdadera generosidad hacia el futuro consiste en entregarlo todo al presente."
+    },
+    {
+      "categoria": "Liderazgo",
+      "autor": "Lao Tsé",
+      "texto": "Un líder es mejor cuando la gente apenas sabe que existe, cuando su trabajo está hecho, su objetivo cumplido, ellos dirán: lo hicimos nosotros mismos."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Deepak Chopra",
+      "texto": "En el silencio está la respuesta a todo lo que buscas."
+    },
+    {
+      "categoria": "Enfoque",
+      "autor": "Gary Keller",
+      "texto": "Haz la cosa más importante primero. Deja que lo demás pase a un segundo plano."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "Theodore Roosevelt",
+      "texto": "Con autodisciplina, casi todo es posible."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "Louisa May Alcott",
+      "texto": "No tengo miedo a las tormentas, porque estoy aprendiendo a navegar mi barco."
     }
   ]
 }
