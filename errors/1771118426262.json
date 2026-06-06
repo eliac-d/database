@@ -1,6 +1,0 @@
-{
-  "id": 1771118426262,
-  "timestamp": "14/2/2026, 7:20:25 p. m.",
-  "log": "TypeError: cachedGroupMetadata is not a function\n    at file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:503:95\n    at file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:511:23\n    at AsyncLocalStorage.run (node:async_hooks:346:14)\n    at file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/auth-utils.js:249:56\n    at file:///home/container/node_modules/async-mutex/index.mjs:162:51\n    at Semaphore.<anonymous> (file:///home/container/node_modules/async-mutex/index.mjs:40:30)\n    at Generator.next (<anonymous>)\n    at fulfilled (file:///home/container/node_modules/async-mutex/index.mjs:8:58)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
-  "platform": "WhatsApp Bot"
-}

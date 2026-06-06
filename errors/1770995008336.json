@@ -1,6 +1,0 @@
-{
-  "id": 1770995008336,
-  "timestamp": "13/2/2026, 9:03:28 a. m.",
-  "log": "TypeError: Cannot read properties of undefined (reading 'call')\n    at Object.message (file:///home/container/lib/message.js?update=1770995007980:124:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async EventEmitter.<anonymous> (file:///home/container/plugins/main/serbot.js?update=1770965213738:162:17)",
-  "platform": "WhatsApp Bot"
-}

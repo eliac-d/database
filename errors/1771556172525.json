@@ -1,6 +1,0 @@
-{
-  "id": 1771556172525,
-  "timestamp": "19/2/2026, 8:56:11 p. m.",
-  "log": "Error: Connection Closed\n    at sendRawMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:56:19)\n    at sendNode (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:75:16)\n    at file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:788:19\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/auth-utils.js:249:40",
-  "platform": "WhatsApp Bot"
-}

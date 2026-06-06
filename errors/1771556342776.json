@@ -1,6 +1,0 @@
-{
-  "id": 1771556342776,
-  "timestamp": "19/2/2026, 8:59:01 p. m.",
-  "log": "TypeError: Cannot read properties of undefined (reading 'attrs')\n    at extractGroupMetadata (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/groups.js:286:27)\n    at groupMetadata (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/groups.js:20:16)\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:508:41\n    at async Promise.all (index 0)\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:501:51\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/auth-utils.js:249:40",
-  "platform": "WhatsApp Bot"
-}

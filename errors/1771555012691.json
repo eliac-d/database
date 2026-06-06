@@ -1,6 +1,0 @@
-{
-  "id": 1771555012691,
-  "timestamp": "19/2/2026, 8:36:51 p. m.",
-  "log": "Error: Connection Closed\n    at sendRawMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:56:19)\n    at sendNode (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:75:16)\n    at file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:128:13\n    at new Promise (<anonymous>)\n    at promiseTimeout (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:114:16)\n    at query (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:126:30)\n    at groupQuery (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/groups.js:9:54)\n    at groupMetadata (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/groups.js:19:30)\n    at file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:508:47\n    at async Promise.all (index 0)",
-  "platform": "WhatsApp Bot"
-}
