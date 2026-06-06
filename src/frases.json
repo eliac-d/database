@@ -1,0 +1,79 @@
+{
+  "frases_masivas": [
+    {
+      "categoria": "Estoicismo",
+      "autor": "Marco Aurelio",
+      "texto": "Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Dailyn",
+      "texto": "No esperes a estar motivado para empezar; empieza y la motivación llegará."
+    },
+    {
+      "categoria": "Estoicismo",
+      "autor": "Séneca",
+      "texto": "No nos atrevemos a muchas cosas porque son difíciles, pero son difíciles porque no nos atrevemos a hacerlas."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Epicteto",
+      "texto": "No es lo que te pasa, sino cómo reaccionas a ello lo que importa."
+    },
+    {
+      "categoria": "Enfoque",
+      "autor": "Friedrich Nietzsche",
+      "texto": "Aquel que tiene un porqué para vivir se puede enfrentar a casi cualquier cómo."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "Miyamoto Musashi",
+      "texto": "Con el tiempo, la paciencia y la disciplina se convierten en una fuerza imparable frente a cualquier caos."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Carl Jung",
+      "texto": "Yo no soy lo que me sucedió, yo soy lo que elegí ser."
+    },
+    {
+      "categoria": "Estoicismo",
+      "autor": "Séneca",
+      "texto": "La verdadera felicidad es disfrutar el presente sin dependencia ansiosa sobre el futuro."
+    },
+    {
+      "categoria": "Enfoque",
+      "autor": "Marco Aurelio",
+      "texto": "La mejor venganza es ser diferente de quien causó el daño."
+    },
+    {
+      "categoria": "Superación",
+      "autor": "Lao Tsé",
+      "texto": "El viaje de mil millas comienza con un solo paso."
+    },
+    {
+      "categoria": "Mente",
+      "autor": "Buda",
+      "texto": "Ni tus peores enemigos pueden hacerte tanto daño como tus propios pensamientos cuando no los controlas."
+    },
+    {
+      "categoria": "Disciplina",
+      "autor": "Aristóteles",
+      "texto": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito."
+    },
+    {
+      "categoria": "Crecimiento",
+      "autor": "Sócrates",
+      "texto": "Una vida no examinada no vale la pena ser vivida."
+    },
+    {
+      "categoria": "Determinación",
+      "autor": "Albert Camus",
+      "texto": "En medio del invierno, finalmente aprendí que había en mí un verano invencible."
+    },
+    {
+      "categoria": "Perspectiva",
+      "autor": "Arthur Schopenhauer",
+      "texto": "El destino baraja las cartas, pero nosotros somos quienes las jugamos."
+    }
+  ]
+}
