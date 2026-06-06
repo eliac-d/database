@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771017743573",
-  "timestamp": "13/2/2026, 3:22:23 p. m.",
-  "context": "Message Upsert Handler",
-  "error": "Error: Failed to fetch stream from https://ik.imagekit.io/pm10ywrf6f/bot_by_deylin/1770961342099_YSAua3_It.jpeg\n    at getHttpStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:304:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:262:26)\n    at async encryptedStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:310:30)\n    at async prepareWAMessageMedia (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:139:96)\n    at async generateWAMessageContent (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:483:13)\n    at async generateWAMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:599:46)\n    at async Object.sendMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:966:33)\n    at async events (file:///home/container/lib/events.js:122:9)\n    at async Object.message (file:///home/container/lib/message.js?update=1771017743091:73:9)",
-  "critical": true
-}

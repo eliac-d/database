@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771119068289",
-  "timestamp": "14/2/2026, 7:31:08 p. m.",
-  "context": "Connection Update",
-  "error": "Error: QR refs attempts ended\n    at Timeout.genPairQR [as _onTimeout] (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:711:26)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-  "critical": true
-}

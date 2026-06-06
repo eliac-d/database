@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1772059948164",
-  "timestamp": "25/2/2026, 4:52:28 p. m.",
-  "context": "Uncaught Exception Global",
-  "error": "Error: ENOENT: no such file or directory, stat '/home/container/plugins/ia/nova.js'\n    at statSync (node:fs:1659:25)\n    at FSWatcher.<anonymous> (node:internal/fs/recursive_watch:160:28)\n    at FSWatcher.emit (node:events:519:28)\n    at FSWatcher._handle.onchange (node:internal/fs/watchers:215:12)\n    at FSEvent.callbackTrampoline (node:internal/async_hooks:130:17)",
-  "critical": true
-}

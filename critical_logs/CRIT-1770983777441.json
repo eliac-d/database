@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1770983777441",
-  "timestamp": "13/2/2026, 5:56:17 a. m.",
-  "context": "Connection Update",
-  "error": "Error: Connection was lost\n    at Timeout._onTimeout (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:535:22)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-  "critical": true
-}

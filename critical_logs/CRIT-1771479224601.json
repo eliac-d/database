@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771479224601",
-  "timestamp": "18/2/2026, 11:33:44 p. m.",
-  "context": "Unhandled Rejection Global",
-  "error": "Error: ENOENT: no such file or directory, open 'sessions/creds.json'\n    at async open (node:internal/fs/promises:637:25)\n    at async writeFile (node:internal/fs/promises:1216:14)\n    at async file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/use-multi-file-auth-state.js:35:17",
-  "critical": true
-}

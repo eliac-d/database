@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1772381718212",
-  "timestamp": "1/3/2026, 10:15:18 a. m.",
-  "context": "Message Upsert",
-  "error": "MongoServerSelectionError: 80BCB88405750000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1590:SSL alert number 80\n\n    at Topology.selectServer (/home/container/node_modules/mongodb/lib/sdam/topology.js:327:38)\n    at async tryOperation (/home/container/node_modules/mongodb/lib/operations/execute_operation.js:148:18)\n    at async executeOperation (/home/container/node_modules/mongodb/lib/operations/execute_operation.js:78:16)\n    at async FindCursor._initialize (/home/container/node_modules/mongodb/lib/cursor/find_cursor.js:62:26)\n    at async FindCursor.cursorInit (/home/container/node_modules/mongodb/lib/cursor/abstract_cursor.js:632:27)\n    at async FindCursor.fetchBatch (/home/container/node_modules/mongodb/lib/cursor/abstract_cursor.js:666:13)\n    at async FindCursor.next (/home/container/node_modules/mongodb/lib/cursor/abstract_cursor.js:342:17)\n    at async Collection.findOne (/home/container/node_modules/mongodb/lib/collection.js:313:24)\n    at async model.Query._findOne (/home/container/node_modules/mongoose/lib/query.js:2710:15)\n    at async model.Query.exec (/home/container/node_modules/mongoose/lib/query.js:4627:63)",
-  "critical": true
-}

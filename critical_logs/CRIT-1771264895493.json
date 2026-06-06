@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771264895493",
-  "timestamp": "16/2/2026, 12:01:35 p. m.",
-  "context": "Message Upsert Handler",
-  "error": "ReferenceError: Cannot access 'isAdmin' before initialization\n    at Object.message (file:///home/container/lib/message.js?update=1771264895366:85:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async EventEmitter.<anonymous> (file:///home/container/index.js:207:13)",
-  "critical": true
-}

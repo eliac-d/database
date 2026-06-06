@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771019130893",
-  "timestamp": "13/2/2026, 3:45:30 p. m.",
-  "context": "Uncaught Exception Global",
-  "error": "Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'ptoide-scraper' imported from /home/container/plugins/download/apk.js\n    at packageResolve (node:internal/modules/esm/resolve:845:9)\n    at moduleResolve (node:internal/modules/esm/resolve:918:18)\n    at defaultResolve (node:internal/modules/esm/resolve:1148:11)\n    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:390:12)\n    at ModuleLoader.resolve (node:internal/modules/esm/loader:359:25)\n    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:234:38)\n    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:87:39)\n    at link (node:internal/modules/esm/module_job:86:36)",
-  "critical": true
-}

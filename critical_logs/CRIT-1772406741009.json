@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1772406741009",
-  "timestamp": "1/3/2026, 5:12:21 p. m.",
-  "context": "Message Upsert",
-  "error": "MongoServerError: E11000 duplicate key error collection: catbot.users index: id_1 dup key: { id: \"18298080906@s.whatsapp.net\" }\n    at InsertOneOperation.handleOk (/home/container/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at tryOperation (/home/container/node_modules/mongodb/lib/operations/execute_operation.js:214:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async executeOperation (/home/container/node_modules/mongodb/lib/operations/execute_operation.js:78:16)\n    at async Collection.insertOne (/home/container/node_modules/mongodb/lib/collection.js:154:16)",
-  "critical": true
-}

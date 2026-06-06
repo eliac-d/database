@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771645482707",
-  "timestamp": "20/2/2026, 9:44:42 p. m.",
-  "context": "Message Upsert",
-  "error": "TypeError: Cannot read properties of undefined (reading '50432955554@s.whatsapp.net')\n    at conn.getName (file:///home/container/lib/serializer.js:71:65)\n    at smsg (file:///home/container/lib/serializer.js:162:38)\n    at async EventEmitter.<anonymous> (file:///home/container/index.js:217:19)",
-  "critical": true
-}

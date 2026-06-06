@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1770983589207",
-  "timestamp": "13/2/2026, 5:53:09 a. m.",
-  "context": "Message Upsert Handler",
-  "error": "Error: Failed to fetch stream from https://telegra.ph/file/243e966f050255dbd2d56.jpg\n    at getHttpStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:304:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:262:26)\n    at async encryptedStream (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages-media.js:310:30)\n    at async prepareWAMessageMedia (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:139:96)\n    at async generateWAMessageContent (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:483:13)\n    at async generateWAMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:599:46)\n    at async Object.sendMessage (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:966:33)\n    at async events (file:///home/container/lib/events.js:122:9)\n    at async Object.message (file:///home/container/lib/message.js?update=1770983588435:73:9)",
-  "critical": true
-}

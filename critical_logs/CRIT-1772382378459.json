@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1772382378459",
-  "timestamp": "1/3/2026, 10:26:18 a. m.",
-  "context": "Message Upsert",
-  "error": "MongooseError: Operation `chats.findOne()` buffering timed out after 10000ms\n    at Timeout._onTimeout (/home/container/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:131:25)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-  "critical": true
-}

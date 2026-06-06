@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1772772051125",
-  "timestamp": "5/3/2026, 10:40:51 p. m.",
-  "context": "Uncaught Exception Global",
-  "error": "Error: ENOSPC: no space left on device, write",
-  "critical": true
-}

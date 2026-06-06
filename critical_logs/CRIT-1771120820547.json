@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771120820547",
-  "timestamp": "14/2/2026, 8:00:20 p. m.",
-  "context": "Message Upsert Handler",
-  "error": "SyntaxError: Identifier 'user' has already been declared\n    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)\n    at callTranslator (node:internal/modules/esm/loader:279:14)\n    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:285:30)\n    at async link (node:internal/modules/esm/module_job:78:21)",
-  "critical": true
-}

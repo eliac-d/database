@@ -1,7 +1,0 @@
-{
-  "id": "CRIT-1771535201304",
-  "timestamp": "19/2/2026, 3:06:41 p. m.",
-  "context": "Connection Update",
-  "error": "Error: Connection Terminated\n    at WebSocketClient.<anonymous> (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:685:35)\n    at WebSocketClient.emit (node:events:519:28)\n    at WebSocket.<anonymous> (file:///home/container/node_modules/@whiskeysockets/baileys/lib/Socket/Client/websocket.js:35:54)\n    at WebSocket.emit (node:events:519:28)\n    at WebSocket.emitClose (/home/container/node_modules/ws/lib/websocket.js:273:10)\n    at TLSSocket.socketOnClose (/home/container/node_modules/ws/lib/websocket.js:1346:15)\n    at TLSSocket.emit (node:events:531:35)\n    at node:net:337:12\n    at TCP.done (node:_tls_wrap:657:7)\n    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)",
-  "critical": true
-}
